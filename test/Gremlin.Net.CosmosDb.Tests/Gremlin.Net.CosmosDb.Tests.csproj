@@ -3,6 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.0</TargetFramework>
     <RootNamespace>Gremlin.Net.CosmosDb</RootNamespace>
+    <LangVersion>latest</LangVersion>
   </PropertyGroup>
 
   <ItemGroup>

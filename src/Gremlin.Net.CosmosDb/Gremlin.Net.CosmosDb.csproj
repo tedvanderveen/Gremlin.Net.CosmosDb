@@ -11,8 +11,7 @@
     <Version>0.3.4.5-rc3</Version>
     <PackageProjectUrl>https://github.com/evo-terren/Gremlin.Net.CosmosDb</PackageProjectUrl>
     <RepositoryUrl>https://github.com/evo-terren/Gremlin.Net.CosmosDb</RepositoryUrl>
-    <DefineConstants>NET_CORE</DefineConstants>
-    <SignAssembly>false</SignAssembly>
+    <LangVersion>latest</LangVersion>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
