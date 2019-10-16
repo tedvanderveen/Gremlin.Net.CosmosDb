@@ -8,7 +8,7 @@ namespace Gremlin.Net.CosmosDb.Serialization
 {
     public class QuerySerializerTests
     {
-        private IGraphTraversalSource g = new GraphTraversalSource();
+        private GraphTraversalSource g = new GraphTraversalSource();
 
         [Fact]
         public void GetSingleVertex()
